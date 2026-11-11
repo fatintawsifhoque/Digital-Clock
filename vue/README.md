@@ -18,6 +18,6 @@ A beautiful, real-time digital clock built with Vue 3 and Tailwind CSS. It's not
 
 ## 🚀 Live link
 
-
+https://digital-clock-vue-fth.vercel.app
 
 ---

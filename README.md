@@ -42,7 +42,8 @@ This repo contains two versions of the same clock app — one in **Vue 3** and o
 
 ### Vue Version
 
-
+https://digital-clock-vue-fth.vercel.app
 
 ### React Version
 
+https://digital-clock-reactt-fth.vercel.app
